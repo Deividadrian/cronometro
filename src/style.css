@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 22rem;
+  height: 22rem;
+  margin-top: 6.25rem;
+}
+
+.timer {
+  font-size: 7.5rem;
+  margin-top: -16rem;
+  color: #FFFFFF
+}
+
+.areaBtn {
+  margin-top: 6.40rem;
+  display: flex;
+}
+
+button{
+  width: 9.7rem;
+  height: 2.18rem;
+  margin-left: 15px;
+  margin-right: 15px;
+}
