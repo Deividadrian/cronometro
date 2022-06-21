@@ -1,5 +1,4 @@
-![captures_chrome-capture-2022-5-19](https://user-images.githubusercontent.com/73372786/174506168-1bcd3230-64b2-435f-b6f5-7bcdf69073dc.png)
-
+![Cronometro](https://user-images.githubusercontent.com/73372786/174692445-fff3d958-dd17-487f-aa37-b8f2aac5437a.png)
 
 # Getting Started with Create React App![Uploading captures_chrome-capture-2022-5-19.png…]()
 
