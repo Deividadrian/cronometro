@@ -24,9 +24,18 @@ img {
   display: flex;
 }
 
-button{
-  width: 9.7rem;
-  height: 2.18rem;
-  margin-left: 15px;
-  margin-right: 15px;
+.btn {
+  width: 8.7rem;
+  height: 4.18rem;
+  margin-left: 0.937rem;
+  margin-right: 0.937rem;
+  border-radius: 2.5rem;
+  color: #FFFFFF;
+  font-size: 1.875rem;
+  font-weight: 500;
+  border: 0.312rem solid #FE22BD;
+}
+
+.btn:hover {
+  background-color: #1967FF;
 }
